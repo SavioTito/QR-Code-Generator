@@ -34,7 +34,7 @@ Requires **Python 3.8+**.
 
 ```bash
 # clone the repository
-git clone https://github.com/<your-username>/qr-code-generator.git
+git clone https://github.com/SavioTito/QR-Code-Generator
 cd qr-code-generator
 
 # (optional) create a virtual environment
